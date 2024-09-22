@@ -2,7 +2,7 @@ export default {
     plugins: {
       'postcss-px-to-viewport': {
         unitToConvert: 'px', // 需要转换的单位，默认为"px"
-        viewportWidth: 1486, // 设计稿的视口宽度
+        viewportWidth: 1920, // 设计稿的视口宽度
         unitPrecision: 5, // 单位转换后保留的精度
         propList: ['*'], // 能转化为vw的属性列表
         viewportUnit: 'vw', // 希望使用的视口单位
