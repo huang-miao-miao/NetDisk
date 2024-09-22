@@ -1,6 +1,6 @@
 # NetDisk
 
-This template should help get you started developing with Vue 3 in Vite.
+使用vue3制作仿百度网盘
 
 ## Recommended IDE Setup
 
